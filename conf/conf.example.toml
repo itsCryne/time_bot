@@ -1,0 +1,11 @@
+# Members will get the role from…
+start_hour = 8 # 8:00
+# until
+end_hour = 14 # 13:59
+parent_role_id = "575659886063386627" # Only members which already have this role will be able to use the bot (set e.g. your Team role here)
+child_role_id = "849379465477357579" # This is the role which will be manged by the bot
+
+# DO NOT EDIT ANYTHING BELOW HERE
+[member_timezones]
+232172280677924866 = "Europe/Berlin"
+
