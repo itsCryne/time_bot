@@ -15,5 +15,5 @@ fern = "0.6.1"
 poise = "0.2.2"
 serde = "1.0.139"
 toml = "0.5.9"
-tokio = {version = "1.20.0", features = ["full"]}
+tokio = {version = "1.20.3", features = ["full"]}
 serde_with = "2.0.0"
